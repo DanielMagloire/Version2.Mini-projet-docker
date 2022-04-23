@@ -37,6 +37,8 @@ Seul les containers **IHM** seront exposés. Par exemple le container **IHM** va
 
 # Illustaration schématique de la solution
 
+![Image Solution](/images/illust.png "Image Solution Projet")
+
 # Réalisation
 # Partie 1: Build et test
 ### étape 1: Nous allons déployer la machine qui contient docker
